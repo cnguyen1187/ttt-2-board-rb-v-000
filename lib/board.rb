@@ -6,7 +6,7 @@ row[0]
 row[1]
 #position 3: right
 row[2]
-
+---------------------
 row = [" ", " ", " "]
 #position 1: left
 row[0]
@@ -14,7 +14,7 @@ row[0]
 row[1]
 #position 3: right
 row[2]
-
+---------------------
 row = [" ", " ", " "]
 #position 1: left
 row[0]
@@ -22,3 +22,4 @@ row[0]
 row[1]
 #position 3: right
 row[2]
+---------------------
