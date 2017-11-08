@@ -1,4 +1,4 @@
-tic tac toe = "board"
+board = 
 row = [" ", " ", " "]
 #position 1: left
 row[0]
