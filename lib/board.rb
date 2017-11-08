@@ -22,4 +22,3 @@ row[0]
 row[1]
 #position 3: right
 row[2]
-
